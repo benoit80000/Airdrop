@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://dummyimage.com/1200x280/0a0a0a/ffffff&text=Verified+CryptoBro+Hub" alt="Verified CryptoBro Hub — Banner">
+  <img src="https://dummyimage.com/1200x280/0a0f1f/89faff&text=Verified+CryptoBro+Hub" alt="Verified CryptoBro Hub — Banner">
 </p>
 
 <h1 align="center">🪂 Verified CryptoBro Hub</h1>
