@@ -32,6 +32,8 @@ Each link is reviewed before being shared here.
 3. Follow the official link to claim your tokens.  
 4. Never share your private keys or seed phrases.
 
+➡️ See the full [Verified Airdrop List](./airdrops/verified-list.md)
+
 ---
 
 ## 🛡️ Safety First
