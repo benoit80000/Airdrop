@@ -1,76 +1,160 @@
-# 🪂 Airdrop Claim Portal
+<!-- HERO -->
+<p align="center">
+  <img src="https://dummyimage.com/1200x280/0a0a0a/ffffff&text=Verified+Airdrop+Hub" alt="Verified Airdrop Hub — Banner">
+</p>
 
-Welcome to the **Airdrop Claim Portal** — your trusted gateway to discovering and claiming **verified crypto airdrops**.
+<h1 align="center">🪂 Verified Airdrop Hub</h1>
+<p align="center">
+  Trusted links to <b>authentic airdrops</b>, plus the <b>people</b>, <b>tools</b>, and <b>ecosystems</b> to follow.
+</p>
 
-This repository was created to help the crypto community find **reliable, safe, and legitimate** URLs to claim airdrops without falling for scams or phishing links.
+<p align="center">
+  <a href="./verified-list.md"><img src="https://img.shields.io/badge/Verified_Airdrops-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="#-wallet--portfolio-trackers"><img src="https://img.shields.io/badge/Track_Wallets-Tools-3b82f6?style=for-the-badge&logo=google-analytics&logoColor=white"></a>
+  <a href="#️-essential-security-tools"><img src="https://img.shields.io/badge/Security-Revokes-f59e0b?style=for-the-badge&logo=shield&logoColor=white"></a>
+  <a href="#-ecosystem-pages"><img src="https://img.shields.io/badge/Ecosystems-Monad%20•%20Optimism%20•%20Base%20•%20Ink-6366f1?style=for-the-badge"></a>
+</p>
 
----
-
-## 🌍 About
-
-In the world of crypto, countless projects launch **airdrops** to reward early adopters and expand their communities.  
-Unfortunately, many fake websites impersonate real projects to steal users' funds.
-
-This repository aims to **list and verify** only **authentic** airdrop claim pages.  
-Each link is reviewed before being shared here.
-
----
-
-## ✅ What You’ll Find Here
-
-- 🪙 **Official claim URLs** for ongoing and upcoming airdrops  
-- 🔗 **Verified sources** and project websites  
-- 🧠 **Guides** on how to safely claim your tokens  
-- 🚨 **Security tips** to avoid scams and phishing attempts  
+<p align="center">
+  <sub>Community-maintained. No seed phrases. No private keys. DYOR.</sub>
+</p>
 
 ---
 
-## ⚙️ How to Use
-
-1. Browse the list of available airdrops in the repository.  
-2. Check the verification status (✅ Verified / ⚠️ Pending Review).  
-3. Follow the official link to claim your tokens.  
-4. Never share your private keys or seed phrases.
-
-➡️ See the full [Verified Airdrop List](./verified-list.md)
-
----
-
-## 🛡️ Safety First
-
-We take user security seriously.  
-Always remember:
-
-- Use a **separate wallet** for testing or claiming airdrops.  
-- Verify the URL before connecting your wallet.  
-- Double-check token contracts and official announcements.  
+<!-- QUICK NAV BUTTONS -->
+<p align="center">
+  <a href="./verified-list.md"><b>🪂 Verified Airdrops</b></a> •
+  <a href="#-ecosystem-pages">🌐 Ecosystem Pages</a> •
+  <a href="#-wallet--portfolio-trackers">📊 Wallet Trackers</a> •
+  <a href="#️-essential-security-tools">🛠️ Security Tools</a> •
+  <a href="#-listings--trackers">📈 Listings</a> •
+  <a href="#-airdrop-influencers-x--twitter">👥 Follow on X</a> •
+  <a href="#-airdrop-builders-github">💻 Builders</a>
+</p>
 
 ---
 
-## 💬 Contribute
-
-Want to help keep this list up-to-date?
-
-- Open a **Pull Request** with a new verified airdrop link.  
-- Or create an **Issue** to report a suspicious or broken link.  
-
-Your contribution helps protect the entire crypto community. 🙌
+## Why this hub?
+> **Cut through noise.** We curate only **legit claim URLs**, plus the **must-follow people** and **battle-tested tools**.  
+> Stay safe, move faster, and never miss a worthy drop.
 
 ---
 
-## 📜 Disclaimer
+## 🪂 Verified Airdrops
+Explore verified and safe airdrops from official sources — **no phishing, no dark patterns**.
 
-This repository is for **educational and informational purposes only**.  
-We do not endorse or guarantee any project listed here.  
-Always do your own research (DYOR) before interacting with any smart contract or dApp.
-
----
-
-### 🌟 Support
-
-If you find this resource useful, please **star ⭐ the repository** to help others discover it!
+<div align="center">
+  <a href="./verified-list.md">
+    <img src="https://img.shields.io/badge/View_the_Full_List-Click_Here-22c55e?style=for-the-badge">
+  </a>
+</div>
 
 ---
 
-**Stay safe & happy claiming!**  
-🪂 *Verified Airdrop Links — Powered by the Community*
+## 🌐 Ecosystem Pages
+Elegant, single-page guides for each ecosystem — **official links, active campaigns, partner apps, and eligibility tips**.
+
+<table>
+  <tr>
+    <td><a href="./monad.md">🟣 <b>Monad</b></a><br/><sub>High-performance L1 — early community rewards</sub></td>
+    <td><a href="./optimism.md">🔴 <b>Optimism</b></a><br/><sub>L2 — users, builders & governance incentives</sub></td>
+    <td><a href="./base.md">🔵 <b>Base</b></a><br/><sub>Coinbase L2 — frequent campaign drops</sub></td>
+    <td><a href="./ink.md">⚫ <b>Ink</b></a><br/><sub>dApp-centric — active testnet incentives</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📊 Wallet & Portfolio Trackers
+Track **wallets**, analyze **LPs/liquidity**, and monitor **smart money** across chains.
+
+| Platform | Link | What it’s great for |
+|---|---|---|
+| **DeBank** | https://debank.com | Deep wallet overview, **LPs**, DeFi positions, approvals view |
+| **Zapper** | https://zapper.xyz | Clean multi-chain portfolio, LP tracking & yields |
+| **Zerion** | https://zerion.io | Sleek portfolio analytics & alerts |
+| **Jupiter (Jup)** | https://jup.ag | Top Solana aggregator; wallet & token tracking |
+| **Arkham Intelligence** | https://platform.arkhamintelligence.com | Labeled wallets, whale maps, on-chain forensics |
+| **Nansen** | https://nansen.ai | Smart-money dashboards & airdrop farmer cohorts |
+| **De.fi Dashboard** | https://de.fi/dashboard | Portfolio + security scanner (approvals, risks) |
+| **ScamSniffer** | https://scamsniffer.io | Transaction risk checks & phishing detection |
+
+> **Pro tip:** build a **watchlist of wallets** (DeBank/Arkham) for high-signal airdrop farmers and LP migrators.
+
+---
+
+## 🛠️ Essential Security Tools
+**Revoke unsafe approvals, simulate transactions, and spot traps** before they cost you.
+
+| Tool | Link | Purpose |
+|---|---|---|
+| **Revoke.cash** | https://revoke.cash | Revoke ERC-20/721/1155 approvals quickly |
+| **Unrekt** | https://app.unrekt.net | Scan wallets & remove malicious permissions |
+| **Pocket Universe** | https://www.pocketuniverse.app | Transaction simulation, malicious call blocking |
+| **DeBank Approvals** | https://debank.com/profile | Inline approval review & revocation |
+| **Etherscan Approvals** | https://etherscan.io/tokenapprovalchecker | Native Ethereum approval manager |
+| **Rabby Wallet Guard** | https://rabby.io | Secure wallet with built-in simulation/alerts |
+| **Blowfish** | https://blowfish.xyz | Real-time threat intel for dApps/wallets |
+| **ScamSniffer** | https://scamsniffer.io | Detect fake airdrop/claim pages & signature traps |
+
+> 🔐 **Always:** claim with a **fresh wallet**, keep approvals lean, and **revoke** after claiming.
+
+---
+
+## 📈 Listings & Trackers
+The most reliable directories to discover and verify campaigns.
+
+- **CoinMarketCap Airdrops** — https://coinmarketcap.com/airdrop/  
+- **CoinGecko Airdrops** — https://www.coingecko.com/en/airdrops  
+- **Airdrop Alert** — https://airdropalert.com/  
+- **DappRadar** — https://dappradar.com/  
+- **Earnifi** — https://earni.fi/  *(scan for unclaimed drops)*
+
+---
+
+## 👥 Airdrop Influencers (X / Twitter)
+Curated accounts with strong signal-to-noise for drops, criteria, and strategies.
+
+| Name | X Handle | Focus |
+|---|---|---|
+| Miles Deutscher | https://x.com/milesdeutscher | Strategy, alpha, market structure |
+| CryptoDep | https://x.com/Crypto_Dep | Daily drop threads & updates |
+| DeFi Airdrops | https://x.com/defiairdrops | Ongoing/upcoming drop trackers |
+| LayerZero Labs | https://x.com/LayerZero_Labs | Cross-chain ecosystem signals |
+| Arbitrum | https://x.com/arbitrum | Official L2 comms |
+| zkSync | https://x.com/zksync | zk-scaling ecosystem news |
+
+---
+
+## 💻 Airdrop Builders (GitHub)
+Open-source teams shaping the infra & protocols behind major distributions.
+
+| Org | GitHub | Why follow |
+|---|---|---|
+| OpenZeppelin | https://github.com/OpenZeppelin | Security-first contracts & audits |
+| LayerZero Labs | https://github.com/LayerZero-Labs | Cross-chain messaging/bridging |
+| Monad | https://github.com/monadlabs | High-perf L1 research & tooling |
+| Optimism | https://github.com/ethereum-optimism | L2 core repos |
+| Base | https://github.com/base-org | Coinbase L2 stack |
+| ink! | https://github.com/paritytech/ink | Rust smart contracts for Substrate |
+| Aave | https://github.com/aave | DeFi governance & releases |
+| Uniswap | https://github.com/Uniswap | DEX ecosystem & periphery |
+
+---
+
+## Contribution
+**Your expertise keeps this sharp.**  
+- Add **new verified airdrops** → PR with source proof  
+- Suggest **wallets, tools, or pages** worth following  
+- Flag **dead/suspicious links** via Issues
+
+---
+
+## Safety & Disclaimer
+- Never share **seed phrases** or **private keys**.
+- Prefer a **fresh wallet** for experiments/claims.
+- This repo is **informational** only. Always **DYOR**.
+
+<p align="center">
+  <sub>Found this useful? Consider dropping a ⭐ to help others find it.</sub>
+</p>
