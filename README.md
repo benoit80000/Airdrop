@@ -117,6 +117,7 @@ Curated accounts with strong signal-to-noise for drops, criteria, and strategies
 
 | Name | X Handle | Focus |
 |---|---|---|
+| **JiRaYa OG** | [@JiRaYa_OG](https://x.com/JiRaYa_OG) | Web3 researcher, airdrop hunter & alpha provider — founder of JiRaYa Crew |
 | Miles Deutscher | https://x.com/milesdeutscher | Strategy, alpha, market structure |
 | CryptoDep | https://x.com/Crypto_Dep | Daily drop threads & updates |
 | DeFi Airdrops | https://x.com/defiairdrops | Ongoing/upcoming drop trackers |
@@ -129,16 +130,17 @@ Curated accounts with strong signal-to-noise for drops, criteria, and strategies
 ## 💻 Airdrop Builders (GitHub)
 Open-source teams shaping the infra & protocols behind major distributions.
 
-| Org | GitHub | Why follow |
-|---|---|---|
-| OpenZeppelin | https://github.com/OpenZeppelin | Security-first contracts & audits |
-| LayerZero Labs | https://github.com/LayerZero-Labs | Cross-chain messaging/bridging |
-| Monad | https://github.com/monadlabs | High-perf L1 research & tooling |
-| Optimism | https://github.com/ethereum-optimism | L2 core repos |
-| Base | https://github.com/base-org | Coinbase L2 stack |
-| ink! | https://github.com/paritytech/ink | Rust smart contracts for Substrate |
-| Aave | https://github.com/aave | DeFi governance & releases |
-| Uniswap | https://github.com/Uniswap | DEX ecosystem & periphery |
+| Org / Crew | GitHub | Why Follow |
+|-------------|---------|-------------|
+| **JiRaYa Crew** | [https://github.com/JiRaYaOG/jiraya-crew](https://github.com/JiRaYaOG/jiraya-crew) | Community of Web3 builders & airdrop researchers — sharing verified projects and open tools |
+| OpenZeppelin | [https://github.com/OpenZeppelin](https://github.com/OpenZeppelin) | Security-first contracts & audits |
+| LayerZero Labs | [https://github.com/LayerZero-Labs](https://github.com/LayerZero-Labs) | Cross-chain messaging / bridging |
+| Monad | [https://github.com/monadlabs](https://github.com/monadlabs) | High-performance L1 research & tooling |
+| Optimism | [https://github.com/ethereum-optimism](https://github.com/ethereum-optimism) | L2 core repos |
+| Base | [https://github.com/base-org](https://github.com/base-org) | Coinbase L2 stack |
+| Ink! | [https://github.com/paritytech/ink](https://github.com/paritytech/ink) | Rust smart contracts for Substrate |
+| Aave | [https://github.com/aave](https://github.com/aave) | DeFi governance & releases |
+| Uniswap | [https://github.com/Uniswap](https://github.com/Uniswap) | DEX ecosystem & periphery |
 
 ---
 
